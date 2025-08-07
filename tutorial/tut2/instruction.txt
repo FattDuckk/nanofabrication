@@ -1,0 +1,3 @@
+sudo apt update
+sudo apt install wine64
+wine wincasino3_x64.exe
